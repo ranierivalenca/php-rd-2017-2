@@ -23,7 +23,7 @@
         <th>Responsáveis</th>
     </tr>
     <tr>
-        <td colspan="2"><h4>Strings</h4></td>
+        <td colspan="2"><center><strong>Strings</strong></center></td>
     </tr>
     <tr>
         <td>explode / implode</td>
@@ -57,7 +57,7 @@
         <td>substr / substr_count / substr_replace</td>
     </tr>
     <tr>
-        <td colspan="2"><h4>Arrays</h4></td>
+        <td colspan="2"><center><strong>Arrays</strong></center></td>
     </tr>
     <tr>
         <td>array_combine / array_map</td>
@@ -92,7 +92,7 @@
         <td>range / shuffle / array_fill</td>
     </tr>
     <tr>
-        <td colspan="2"><h4>Funções</h4></td>
+        <td colspan="2"><center><strong>Funções</strong></center></td>
     </tr>
     <tr>
         <td>func_get_arg / func_get_args / func_num_args</td>
