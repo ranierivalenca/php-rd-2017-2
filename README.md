@@ -41,7 +41,8 @@
         <td>ord / chr</td>
     </tr>
     <tr>
-        <td>md5 / sha1 (rhodolfo)</td>
+        <td>md5 / sha1</td>
+        <td>Rhodolfo</td>
     </tr>
     <tr>
         <td>strstr / stristr / strpos / stripos</td>
@@ -70,18 +71,22 @@
     </tr>
     <tr>
         <td>array_keys / array_key_exists / array_values / array_search / in_array</td>
+        <td>Emanuele Garcia</td>
     </tr>
     <tr>
         <td>array_push / array_pop / array_shift / array_unshift</td>
     </tr>
     <tr>
         <td>sort / asort / ksort</td>
+        <td>Lucas Henrique</td>
     </tr>
     <tr>
         <td>usort / uasort / uksort</td>
+        <td>Bruna Rafaella</td>
     </tr>
     <tr>
         <td>natsort / natcasesort</td>
+        <td>Milena Lins</td>
     </tr>
     <tr>
         <td>range / shuffle / array_fill</td>
