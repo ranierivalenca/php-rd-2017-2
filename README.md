@@ -19,8 +19,11 @@
 </p>
 <table>
     <tr>
-        <th>Função (ões)</th>
-        <th>Responsável</th>
+        <th>Funções)</th>
+        <th>Responsáveis</th>
+    </tr>
+    <tr>
+        <td colspan="2"><h4>Strings</h4></td>
     </tr>
     <tr>
         <td>explode / implode</td>
@@ -53,7 +56,11 @@
         <td>substr / substr_count / substr_replace</td>
     </tr>
     <tr>
-        <td>array_combine / array_map (thiago)</td>
+        <td colspan="2"><h4>Arrays</h4></td>
+    </tr>
+    <tr>
+        <td>array_combine / array_map</td>
+        <td>Thiago Vinícius</td>
     </tr>
     <tr>
         <td>array_diff / array_filter / array_rand</td>
@@ -80,7 +87,11 @@
         <td>range / shuffle / array_fill</td>
     </tr>
     <tr>
+        <td colspan="2"><h4>Funções</h4></td>
+    </tr>
+    <tr>
         <td>func_get_arg / func_get_args / func_num_args</td>
+        <td>Davi Guaraná</td>
     </tr>
     <tr>
         <td>function_exists / get_defined_functions</td>
