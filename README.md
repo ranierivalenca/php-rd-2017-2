@@ -10,3 +10,79 @@
     <dt>example.php</dt>
     <dd>Um arquivo com pelo menos um exemplo de uso daquela função. Obviamente outras funções podem ser utilizadas, mas é essencial que a função seja utilizada, claro.</dd>
 </dl>
+<h3>Por que essa atividade?</h3>
+<p>
+    PHP é uma linguagem que fornece uma série de recursos ao programador, e muitos desses recursos são oferecidos através de funções. Faz pouco sentido programar em PHP sem conhecer suas funções e facilidades. Por isso, todos deverão ter acesso a um conteúdo <em>de qualidade</em>, criado por vocês e para vocês, que deverá servir de referência para vocês.
+</p>
+<p>
+    A seguir, a lista de funções a serem pesquisadas:
+</p>
+<table>
+    <tr>
+        <th>Função (ões)</th>
+        <th>Responsável</th>
+    </tr>
+    <tr>
+        <td>explode / implode</td>
+    </tr>
+    <tr>
+        <td>htmlentities / htmlspecialchars</td>
+    </tr>
+    <tr>
+        <td>trim / rtrim / ltrim</td>
+    </tr>
+    <tr>
+        <td>number_format / nl2br</td>
+    </tr>
+    <tr>
+        <td>ord / chr</td>
+    </tr>
+    <tr>
+        <td>md5 / sha1 (rhodolfo)</td>
+    </tr>
+    <tr>
+        <td>strstr / stristr / strpos / stripos</td>
+    </tr>
+    <tr>
+        <td>strcmp / strcasecmp / strnatcmp / strnatcasecmp</td>
+    </tr>
+    <tr>
+        <td>strtoupper / strtolower / ucfirst / ucwords</td>
+    </tr>
+    <tr>
+        <td>substr / substr_count / substr_replace</td>
+    </tr>
+    <tr>
+        <td>array_combine / array_map (thiago)</td>
+    </tr>
+    <tr>
+        <td>array_diff / array_filter / array_rand</td>
+    </tr>
+    <tr>
+        <td>array_intersect / array_intersect_*</td>
+    </tr>
+    <tr>
+        <td>array_keys / array_key_exists / array_values / array_search / in_array</td>
+    </tr>
+    <tr>
+        <td>array_push / array_pop / array_shift / array_unshift</td>
+    </tr>
+    <tr>
+        <td>sort / asort / ksort</td>
+    </tr>
+    <tr>
+        <td>usort / uasort / uksort</td>
+    </tr>
+    <tr>
+        <td>natsort / natcasesort</td>
+    </tr>
+    <tr>
+        <td>range / shuffle / array_fill</td>
+    </tr>
+    <tr>
+        <td>func_get_arg / func_get_args / func_num_args</td>
+    </tr>
+    <tr>
+        <td>function_exists / get_defined_functions</td>
+    </tr>
+</table>
