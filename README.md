@@ -78,7 +78,7 @@
     </tr>
     <tr>
         <td>array_intersect / array_intersect_*</td>
-        <td>Maria Eduarda</td>
+        <td>Davi Guaraná</td>
     </tr>
     <tr>
         <td>array_keys / array_key_exists / array_values / array_search / in_array</td>
@@ -109,7 +109,7 @@
     </tr>
     <tr>
         <td>func_get_arg / func_get_args / func_num_args</td>
-        <td>Davi Guaraná</td>
+        <td>Maria Eduarda</td>
     </tr>
     <tr>
         <td>function_exists / get_defined_functions</td>
