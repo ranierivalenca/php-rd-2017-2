@@ -12,4 +12,4 @@
 	<li>4. E, seguindo o uasort(), como vamos manusear chaves, usaremos o foreach pra percorrer o array!</li>
 </ul>
 </p>
-<p>Como dica pra você entender melhor a diferença entre uasort() e uksort(), pegue o exemplo do uksort() "uksort.php", rode e após verificar a saída, modifique a função uksort() para uasort(). Provavelmente a função trocará de alvo. No uksort() teremos a mudança nas chaves, e no uasort() nos valores.</p>									
+<p>Como dica pra você entender melhor a diferença entre uasort() e uksort(), pegue o exemplo do uksort(), rode e após verificar a saída, modifique a função uksort() para uasort(). Provavelmente a função trocará de alvo. No uksort() teremos a mudança nas chaves, e no uasort() nos valores.</p>									

@@ -12,4 +12,4 @@
     <li>4. E nesse caso, como vamos manusear chaves, usaremos o foreach pra percorrer o array!</li>
 </ul>
 </p>
-<p>Como dica pra você entender melhor a diferença entre usort() e uasort(), pegue o exemplo do uasort() "uasort.php", rode e após verificar a saída, modifique a função uasort() para usort(). Você perceberá que as chaves deixarão de ser as mesmas e passarão a ser números de índices.</p>
+<p>Como dica pra você entender melhor a diferença entre usort() e uasort(), pegue o exemplo do uasort(), rode e após verificar a saída, modifique a função uasort() para usort(). Você perceberá que as chaves deixarão de ser as mesmas e passarão a ser números de índices.</p>

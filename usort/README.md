@@ -4,7 +4,7 @@
 <h2>Sintaxe:</h2>
 <p>usort($array,"nome da funcao definida pelo usuario");</p>
 <h2>Uso do usort():</h2>
-<p>Com o exemplo "usort.php", podemos fazer algumas observações:
+<p>Com o exemplo do usort, podemos fazer algumas observações:
 <ul>
 	<li>1. A presença de uma função, que eu denominei crescente (pois ela ordena um array</li>
 	<li>2. A presença de um array.</li>
