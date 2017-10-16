@@ -1,0 +1,10 @@
+
+<?php
+	$str = 'apple';
+	// Está função irá criptografar a palavra "apple";
+	echo md5($str);
+	
+	$str1 = 'people';
+	// Está função irá criptogragar a palavra "people";
+	echo sha1($str1);
+?>
