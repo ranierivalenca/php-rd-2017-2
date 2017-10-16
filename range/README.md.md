@@ -1,63 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet">
 	
 	<title>range</title>
-	
-	<style type="text/css">
-		h1{
-			font-family: 'Courgette', cursive;
-			color: 	#DB7093
-		}
-		h2, h3{
-			font-family: 'ABeeZee', sans-serif;
-		}
-		p{
-			color: 	#DB7093
-		}
-	</style>
 
 </head>
 <body>
-	<h1>Função range ()</h1>
-	<br>
-	<h2>Descrição:</h2>
+	Função range ()
 	
-	<h3>
+	Descrição:
+	
 		É uma função que nos retorna uma sequência numérica conforme os parâmetros por nós definidos.
-		<br>
-		<br>
+		
 		Exemplo: 
-		<p>range($low, $high, $step=NULL);</p>
+		range($low, $high, $step=NULL);
 		Os valores $low e $high devem ser definidos origatóriamente. $low representa o início da
-		<br>
 		sequência numérica. Já o $high vai definir o final da sequência numérica.
-		<br>
-		<br>
+		
 		1- Gerando uma sequência numérica que comece com o número 1 até o número 5:
-		<br>
+		
 			<p>range(0, 5);
-			<br>
 			>>> [0, 1, 2, 3, 4, 5]
-			</p>
+			
 		Como nós não definimos o parâmetro $step=NULL o intervalo da sequência numérica foi de apenas uma unidade.
-		<br>
-		<br>
+		
 		2- Gerando uma sequência numérica de números pares:
-		<br>
+		
 			<p>range(0, 10, 2);
-			<br>
 			>>> [0, 2, 4, 6, 8, 10]
-			</p>
+			
 		É perceptível que foi incluído um terceiro valor na função. Este valor é o parâmetro $step=NULL,
-		<br>
 		nele nós definimos a quantidade do intervalo da sequeência numérica.
-	</h3>
-
-
-
+	
 </body>
 </html>
